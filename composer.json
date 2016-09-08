@@ -1,5 +1,5 @@
 {
-    "name": "marconi1992/rollbar-laravel",
+    "name": "rhinocore/rollbar-laravel",
     "description": "Rollbar integration in Laravel or Lumen",
     "license": "MIT",
     "authors": [
